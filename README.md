@@ -1,4 +1,4 @@
-# ml_kit_exploring
+# Text Recognizer App
 
 A new Flutter project.
 
