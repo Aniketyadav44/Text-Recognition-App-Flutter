@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508983938233",
+    "firebase_url": "https://ml-kit-practicing.firebaseio.com",
+    "project_id": "ml-kit-practicing",
+    "storage_bucket": "ml-kit-practicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508983938233:android:ac52b6ec21e0430b34df68",
+        "android_client_info": {
+          "package_name": "com.anikety.ml_kit_exploring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508983938233-96ou8gjteem158oi9nbibpkiernujgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfEVgs0liVLnFyIgbN8OGbFlBIs3l1LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508983938233-96ou8gjteem158oi9nbibpkiernujgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
